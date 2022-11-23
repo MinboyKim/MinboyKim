@@ -31,7 +31,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
-
+</br>
+</br>
 <p align="center">
-<a href="https://opgc.me/#/users/minboykim" target="_blank"><img align="center" src="https://api.opgc.me/githubs/users/minboykim/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/minboykim" target="_blank"><img src="https://api.opgc.me/githubs/users/minboykim/tag/?theme=basic" /></a>
 </p>
