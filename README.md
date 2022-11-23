@@ -32,4 +32,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
-<a align="cencter" href="https://opgc.me/#/users/minboykim" target="_blank"><img src="https://api.opgc.me/githubs/users/minboykim/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/minboykim" target="_blank"><img align="cencter"  src="https://api.opgc.me/githubs/users/minboykim/tag/?theme=basic" /></a>
