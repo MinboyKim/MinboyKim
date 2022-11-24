@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 </p>
 </br>
 </br>
+<!--
 <p align="center">
 <a href="https://opgc.me/#/users/minboykim" target="_blank"><img src="https://api.opgc.me/githubs/users/minboykim/tag/?theme=basic" /></a>
 </p>
+-->
+
+<div align="center" >
+ <img src="https://github-readme-stats.vercel.app/api?username=MinboyKim&show_icons=true&theme=radical&card_width=400"/>
+</div>
