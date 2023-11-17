@@ -10,7 +10,7 @@
 </br>
 **✔️ 42 SEOUL - 2023.02 ~ 2023.06**
 </br>
-**✔️ NAVER BoostCamp 8기 웹풀스택 - 2023.07~**
+**✔️ NAVER BoostCamp 8기 웹 FE - 2023.07~**
 </br>
 
 <h3> ❄️ Stats </h3>
