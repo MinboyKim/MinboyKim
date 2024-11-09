@@ -5,14 +5,14 @@
 ---
 
 * Konkuk University CSE 19 - 2019.03 ~
-* 건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon 운영진, 멘토 - 2023.03 ~ 2023.07
+* 건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon Mentor(운영진) - 2023.03 ~ 2023.07
 * 건국대학교 SW 활동 장학 프로그램 - 2023.03 ~ 2023.06
 * [42 SEOUL](https://42seoul.kr/seoul42/main/view) Kadet - 2023.02 ~ 2023.06
 * [ICT 멘토링](https://www.hanium.or.kr/portal/index.do) : IP 카메라&클라우드 기반 해상물류 창고 관리 시스템 프로젝트 - 2023.04 ~ 2023.11
 * [네이버 커넥트재단 부스트캠프](https://boostcamp.connect.or.kr/) 웹・모바일 8기 챌린지 과정 수료 - 2023.07 ~ 2023.08
 * [네이버 커넥트재단 부스트캠프](https://boostcamp.connect.or.kr/) 웹・모바일 8기 멤버십 과정 수료 - 2023.08 ~ 2023.12
 * [ICT 멘토링](https://www.hanium.or.kr/portal/index.do) : 클라우드 가상 데스크탑 VDI 서비스 플랫폼 개발 프로젝트 2024.04 ~ 2024.08
-* [GDG On Campus Konkuk University](https://gdg.community.dev/gdg-on-campus-konkuk-university-seoul-south-korea/) 운영진 - 2024.08 ~
+* [GDG On Campus Konkuk University](https://gdg.community.dev/gdg-on-campus-konkuk-university-seoul-south-korea/) Core Member(운영진) - 2024.08 ~
 
 <br />
 
