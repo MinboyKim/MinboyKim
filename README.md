@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
   <br/>
 
-  <strong>Tools</strong>
+  <strong>Tools</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>
