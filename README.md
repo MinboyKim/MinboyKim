@@ -99,7 +99,9 @@
 </p>
 </br>
 <div align="center" >
- <img src="https://github.com/user-attachments/assets/7a267b83-545e-42c7-ab53-e3d0d6ed4cc9" />
+ <a href="https://www.credly.com/badges/e299452b-d4a3-48a9-abb9-6efd95d41939/public_url">
+   <img src="https://github.com/user-attachments/assets/7a267b83-545e-42c7-ab53-e3d0d6ed4cc9" />
+ </a>
  <img src="https://github-readme-stats.vercel.app/api?username=MinboyKim&show_icons=true&theme=dark&card_width=400"/>
   </br>
   </br>
