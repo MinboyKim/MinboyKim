@@ -92,12 +92,14 @@
 
 ---
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
+  
   <img src="https://profile-counter.glitch.me/MinboyKim/count.svg" />
 </p>
 </br>
 <div align="center" >
+ <img src="https://github.com/user-attachments/assets/7a267b83-545e-42c7-ab53-e3d0d6ed4cc9" />
  <img src="https://github-readme-stats.vercel.app/api?username=MinboyKim&show_icons=true&theme=dark&card_width=400"/>
   </br>
   </br>
